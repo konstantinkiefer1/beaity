@@ -28,7 +28,7 @@ const cta = <ButtonSignin extraStyle="btn-primary text-white" />;
 // A header with a logo on the left, links in the center (like Pricing, etc...), and a CTA (like Get Started or Login) on the right.
 // The header is responsive, and on mobile, the links are hidden behind a burger button.
 const Header = () => {
-  const searchParams = useSearchParams();
+  const searchParams = "hi";
   const [isOpen, setIsOpen] = useState(false);
 
   // setIsOpen(false) when the route changes (i.e: when the user clicks on a link on mobile)

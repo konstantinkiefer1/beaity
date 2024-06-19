@@ -1,4 +1,4 @@
-// File: C:\Coding\hellohanfpay\app\tos\page.js
+// File: C:\Coding\test\app\tos\page.js
 import * as entry from '../../../../app/tos/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -140,7 +140,7 @@ const ButtonAccordionCategories = () => {
 // By default it shows the logo, the links, and the CTA.
 // In the links, there's a popover with the categories.
 const HeaderBlog = () => {
-  const searchParams = useSearchParams();
+  const searchParams = "hi";
   const [isOpen, setIsOpen] = useState(false);
 
   // setIsOpen(false) when the route changes (i.e: when the user clicks on a link on mobile)
